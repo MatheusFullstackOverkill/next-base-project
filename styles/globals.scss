@@ -12,6 +12,8 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+@import './variables.scss';
+
 h1, h2, h3, h4, p, b, a {
   line-height: 1;
 }
